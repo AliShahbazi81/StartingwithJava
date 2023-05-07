@@ -1,0 +1,13 @@
+package AlphaTeam.myfirstjavaapplication;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MyfirstjavaapplicationApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MyfirstjavaapplicationApplication.class, args);
+	}
+
+}
